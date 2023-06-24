@@ -1,0 +1,35 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.app-con {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+  height: 100vh;
+}
+.cowin-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 80%;
+  max-width: 1100px;
+}
+.logo-con {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+}
+.logo-head {
+  color: #2cc6c6;
+  font-weight: bold;
+  margin-left: 12px;
+  font-size: 25px;
+}
+.para {
+  font-size: 24px;
+  color: #cbd5e1;
+  font-weight: 500;
+}

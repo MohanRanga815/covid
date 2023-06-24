@@ -1,0 +1,16 @@
+/* Write your CSS here */
+/* Write your CSS here */
+/* Write your CSS here */
+.vaccine-age-con {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 18px;
+  margin-bottom: 20px;
+}
+.age-heading {
+  font-size: 24px;
+  color: #94a3b8;
+  font-weight: 600;
+  line-height: 1.5;
+}
